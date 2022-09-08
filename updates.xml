@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://download1518.mediafire.com/zuv2h181d9kg/13aq4s80akuix0z/Luciano.exe">
+<updateDescriptor baseUrl="https://download848.mediafire.com/deayu51edkbg/13aq4s80akuix0z/Luciano.exe">
   <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="Luciano.exe" newVersion="1.0" newMediaFileId="92" fileSize="53523456" md5Sum="f5f9dbc95bd78c541f83cd95581c396a" sha256Sum="3637bf9d82dc7ffe1283e975c9342ca783d2193f4d6cc2e1900d182aee266143" bundledJre="windows-x86-11.0.16.1.tar.gz" archive="false" singleBundle="false">
     <comment language="es" />
   </entry>
